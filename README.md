@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/473212185.svg)](https://zenodo.org/badge/latestdoi/473212185)
+
 # AquaticFlavi
 Phylogenetic tree of flavivirus NS5 with special focus on aquatic flaviviruses.
 - NS5-Flavi-alignment.fasta: raw alignment with MAFFT v7.450 ([Katoh et al. (2017)](https://doi.org/10.1093/bib/bbx108)).
